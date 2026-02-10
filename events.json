@@ -1,5 +1,5 @@
 {
-    "doubleXp": false,
-    "doubleCash": false,
-    "rushHour": false
+    "doubleXp": true,
+    "doubleCash": true,
+    "rushHour": true
 }
